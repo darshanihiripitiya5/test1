@@ -1,2 +1,2 @@
-cd ~storage/
+cd ~/storage
 ls
