@@ -14,3 +14,5 @@ Recording started: /storage/emulated/0/TermuxAudioRecording_2024-12-07_12-14-33.
 Max Duration: 00:10
 Recording started: /storage/emulated/0/TermuxAudioRecording_2024-12-07_12-14-48.m4a 
 Max Duration: 00:10
+Recording started: /data/data/com.termux/files/home/test1/a.mp4 
+Max Duration: 00:10
