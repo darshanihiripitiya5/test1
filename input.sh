@@ -1,1 +1,1 @@
-termux-torch off
+termux-camera-photo -c  1 a.png
