@@ -1,1 +1,1 @@
-termux-location
+termux-microphone-record -l 10
