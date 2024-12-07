@@ -10,3 +10,10 @@ b.txt
 e.mp3
 input.sh
 output.txt
+dcim
+downloads
+external-1
+movies
+music
+pictures
+shared
