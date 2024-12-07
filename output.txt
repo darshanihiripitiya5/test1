@@ -1,1 +1,95 @@
 
+[
+  {
+    "threadid": 20,
+    "type": "inbox",
+    "read": false,
+    "number": "5555",
+    "received": "2024-12-06 10:31:08",
+    "body": "Dear Customer, you are being charged for every MB consumed (Pay-As-You-Use) from your reload balance, as a result of not activating a Data package or the Data",
+    "_id": 8036
+  },
+  {
+    "threadid": 20,
+    "type": "inbox",
+    "read": false,
+    "number": "5555",
+    "received": "2024-12-06 10:31:09",
+    "body": " quota of your current package being over. We recommend activating a Data plan tailored just for you on Dialog MyOffers via https://md.dialog.lk/myoffers to",
+    "_id": 8037
+  },
+  {
+    "threadid": 20,
+    "type": "inbox",
+    "read": false,
+    "number": "5555",
+    "received": "2024-12-06 10:31:10",
+    "body": " better manage your Data charges.",
+    "_id": 8038
+  },
+  {
+    "threadid": 49,
+    "type": "inbox",
+    "read": false,
+    "number": "ComBankCard",
+    "received": "2024-12-06 10:57:28",
+    "body": "25% Cr & 12.5% Dr @ Dilly & Carlo, www.dillyandcarlo.com, 20% Cr & 10% Dr @ Molly Boulevard, Shopimo Fashion(7th&8th Dec), 15% Cr & 10% Dr @ www.wishque.com (till 15th Dec), 10% Cr & Dr @ Emma Fashion(7th&8th Dec), 7% Cr & Dr @ JKOA(6th&7th Dec)*T&C Apply*StopAd? SMS NO ComBankCard to 712046475",
+    "_id": 8039
+  },
+  {
+    "threadid": 49,
+    "type": "inbox",
+    "read": false,
+    "number": "ComBankCard",
+    "received": "2024-12-06 12:47:23",
+    "body": "20% Cr & 10% Dr @ ODEL, www.odel.lk, Odel Sports, Cotton Collection, Galleria, COCO, LUV SL, Levis, Calvin Klein, Charles & Keith, Tommy Hilfiger, Armani Exchange, Samsonite(7th&8th Dec)*T&C Apply*StopAd? SMS NO ComBankCard to 712046475",
+    "_id": 8040
+  },
+  {
+    "threadid": 49,
+    "type": "inbox",
+    "read": false,
+    "number": "ComBankCard",
+    "received": "2024-12-06 13:39:44",
+    "body": "20% Cr & 10% Dr @ MANGO, ALDO, Nike, Adidas Original(OGF), Adidas Performance(OGF), Furla, Fossil, Yamamay, Carpisa, Mothercare, The Toy Store, Vero Moda, Giordano(ODEL-OGF)(7th&8th Dec)*T&C Apply*StopAd? SMS NO ComBankCard to 712046475",
+    "_id": 8041
+  },
+  {
+    "threadid": 136,
+    "type": "inbox",
+    "read": false,
+    "number": "Hutch",
+    "received": "2024-12-06 13:53:44",
+    "body": "HUTCH 2X! Rs.1099 (50GB) plan for just Rs.714 (Valid 30D). Limited time introductory offer! Activate via *311# or HutchApp MyOffers. **Stop promo SMS dial *159#",
+    "_id": 8042
+  },
+  {
+    "threadid": 165,
+    "type": "inbox",
+    "read": true,
+    "sender": "Deda 2",
+    "number": "+94741879350",
+    "received": "2024-12-07 01:24:56",
+    "body": "See my real-time location on Maps: https://maps.app.goo.gl/yLf7sALyZyXS54YD6",
+    "_id": 8043
+  },
+  {
+    "threadid": 302,
+    "type": "inbox",
+    "read": false,
+    "sender": "Kavindu's Malli Moratuwa New",
+    "number": "+94785651458",
+    "received": "2024-12-07 01:40:34",
+    "body": "You have missed 1 calls from +94785651458. Last call on 07-12-2024 at 01:40. \r\n",
+    "_id": 8044
+  },
+  {
+    "threadid": 151,
+    "type": "inbox",
+    "read": false,
+    "number": "HNB",
+    "received": "2024-12-07 09:36:08",
+    "body": "A Transaction for LKR 25.00 has been debit ed to Ac No:09802XXXXX74 on 07/12/24 09:36:00 .\r\nRemarks :Finacle Alert Charges.Bal: LKR 4,809.81",
+    "_id": 8045
+  }
+]
