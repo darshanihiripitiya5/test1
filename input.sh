@@ -1,1 +1,3 @@
+termux-torch on
+
 
