@@ -1,1 +1,1 @@
-termux-call-log
+termux-sms-list
