@@ -1,5 +1,4 @@
-Updating 1f78976..5b2eb66
+Updating f172c28..071867d
 Fast-forward
- input.sh   |    2 +-
- output.txt | 6198 ------------------------------------------------------------
- 2 files changed, 1 insertion(+), 6199 deletions(-)
+ input.sh | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
