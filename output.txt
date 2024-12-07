@@ -10,3 +10,5 @@
   "elapsedMs": 3,
   "provider": "gps"
 }
+Recording started: /data/data/com.termux/files/home/test1/e.mp3 
+Max Duration: 00:10
