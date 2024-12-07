@@ -1,4 +1,4 @@
-Updating 4ef88f6..0858e7f
+Updating 53177c3..2cb7364
 Fast-forward
- input.sh | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
+ input.sh | 4 +---
+ 1 file changed, 1 insertion(+), 3 deletions(-)
