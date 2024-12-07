@@ -1,19 +1,1 @@
 
-a.png
-storage
-test1
-a.mp4
-a.png
-a.txt
-b.png
-b.txt
-e.mp3
-input.sh
-output.txt
-dcim
-downloads
-external-1
-movies
-music
-pictures
-shared
