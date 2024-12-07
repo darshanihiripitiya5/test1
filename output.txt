@@ -7,3 +7,6 @@ b.txt
 e.mp3
 input.sh
 output.txt
+a.png
+storage
+test1
