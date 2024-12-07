@@ -6,3 +6,11 @@ movies
 music
 pictures
 shared
+100ANDRO
+100PINT
+CamScanner
+Camera
+CapCut
+Facebook
+SRecorder
+XPERIA
