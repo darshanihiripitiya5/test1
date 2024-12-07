@@ -1,1 +1,1 @@
-termux-microphone-record -l 10 -f c.mp3
+termux-telephony-cellinfo
