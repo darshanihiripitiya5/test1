@@ -10,3 +10,5 @@
   "elapsedMs": 2,
   "provider": "gps"
 }
+Recording started: /storage/emulated/0/TermuxAudioRecording_2024-12-07_12-14-33.m4a 
+Max Duration: 00:10
