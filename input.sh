@@ -1,1 +1,1 @@
-
+termux-camera-info
