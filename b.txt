@@ -1,4 +1,4 @@
-Updating fc36f24..b608988
+Updating c36d878..afd4878
 Fast-forward
  input.sh | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
