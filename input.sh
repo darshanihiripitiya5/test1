@@ -1,1 +1,1 @@
-termux-torch off
+termux-sms-list
