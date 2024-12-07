@@ -1,14 +1,1 @@
 
-{
-  "latitude": 6.78522049,
-  "longitude": 79.88884447,
-  "altitude": -79.73641967773438,
-  "accuracy": 31.088001251220703,
-  "vertical_accuracy": 24.0,
-  "bearing": 0.0,
-  "speed": 0.0,
-  "elapsedMs": 3,
-  "provider": "gps"
-}
-Recording started: /data/data/com.termux/files/home/test1/e.mp3 
-Max Duration: 00:10
