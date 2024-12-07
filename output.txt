@@ -1,1 +1,936 @@
 
+[
+  {
+    "threadid": 194,
+    "type": "inbox",
+    "read": false,
+    "number": "Star Points",
+    "received": "2024-11-13 14:18:02",
+    "body": "Dear Customer, you have earned 0.5 Star Points for the Dialog Mobile reload of Rs. 50.00/- made on 13/11/2024 14:14:43. Total Star Points balance: 137.17 and you may visit the WOW App https://applink.wow.lk/SP or dial #141# to check on Star Points Offers.",
+    "_id": 3014
+  },
+  {
+    "threadid": 244,
+    "type": "inbox",
+    "read": false,
+    "number": "Mega Wasana",
+    "received": "2024-11-13 14:20:41",
+    "body": "Congratulations! You have earned 1 scratch cards on Dialog Mega Wasana by reloading Rs. 50.0 to your Dialog Mobile 768886584 on 13/11/2024. Scratch and stand a chance to win cash prizes of Rs. 500,000 and win monthly gifts worth 10M on WOW app! Visit the WOW app https://applink.wow.lk/MwDL Dialog does not levy any fees from customers for claiming Dialog Mega Wasana winning chances or prizes.",
+    "_id": 3015
+  },
+  {
+    "threadid": 196,
+    "type": "inbox",
+    "read": false,
+    "number": "COMBANK",
+    "received": "2024-11-14 15:16:22",
+    "body": "Code 129245 is your One Time Password to authorize the transaction. Do NOT share this number with anyone PbgqGoDg8jk",
+    "_id": 3016
+  },
+  {
+    "threadid": 340,
+    "type": "inbox",
+    "read": false,
+    "number": "BonusUk",
+    "received": "2024-11-15 08:42:48",
+    "body": "Mudal hadissiyakda? Palamu naya mudalata 100% ka wattamak. Miniththu 10n Rs.150;000 dakwa laba ganna. Deemanawa seemithayi: rb.gy/8yvk9w",
+    "_id": 3017
+  },
+  {
+    "threadid": 298,
+    "type": "inbox",
+    "read": false,
+    "number": "SpaCeylon",
+    "received": "2024-11-15 10:04:31",
+    "body": "Our Festive Gallery is NOW ONLINE! Offers up to 70% OFF. For limited time. Shop:http://bit.ly/3CuPHjp T&C apply. Online only.\n*SMS STOP SpaCeylon to 94784000087",
+    "_id": 3018
+  },
+  {
+    "threadid": 79,
+    "type": "inbox",
+    "read": true,
+    "number": "5555",
+    "received": "2024-11-15 11:41:09",
+    "body": "Your Account Balance is low. Visit www.dialog.lk/home-reload to Reload or Dial #356# to get a loan",
+    "_id": 3019
+  },
+  {
+    "threadid": 79,
+    "type": "inbox",
+    "read": true,
+    "number": "5555",
+    "received": "2024-11-15 11:41:11",
+    "body": "Dear customer, you have successfully recharged your account with Rs.50.00. You have an available balance of Rs.50.01. Valid till 15/11/2025.",
+    "_id": 3020
+  },
+  {
+    "threadid": 194,
+    "type": "inbox",
+    "read": false,
+    "number": "Star Points",
+    "received": "2024-11-15 11:42:08",
+    "body": "Dear Customer, you have earned 0.5 Star Points for the Dialog Mobile reload of Rs. 50.00/- made on 15/11/2024 11:39:51. Total Star Points balance: 137.67 and you may visit the WOW App https://applink.wow.lk/SP or dial #141# to check on Star Points Offers.",
+    "_id": 3021
+  },
+  {
+    "threadid": 246,
+    "type": "inbox",
+    "read": false,
+    "number": "PeoplesBank",
+    "received": "2024-11-15 11:43:47",
+    "body": "Dear Sir/Madam, Your A/C (091-2001******27) has been debited by Rs. 50.00 (POS @11:39 15/11/2024).[Av_Bal: Rs. 1175.91 at the time of SMS generated]",
+    "_id": 3022
+  },
+  {
+    "threadid": 341,
+    "type": "sent",
+    "read": true,
+    "number": "9900",
+    "received": "2024-11-15 15:01:07",
+    "body": "Win 18",
+    "_id": 3023
+  },
+  {
+    "threadid": 341,
+    "type": "sent",
+    "read": true,
+    "number": "9900",
+    "received": "2024-11-15 15:01:33",
+    "body": "Win 18",
+    "_id": 3024
+  },
+  {
+    "threadid": 250,
+    "type": "inbox",
+    "read": false,
+    "number": "LECO-Gen",
+    "received": "2024-11-16 08:36:13",
+    "body": "Dear Valued Customer (Acc No 0300683108), Haven't you downloaded the MyLECO app yet? want to reduce your bill? Easily track your daily electricity usage, see your bill history, and check payments? Download the MyLECO app today and get all these services to your fingertips.! Stay smart with LECO. Download now: \nAndroid: https://play.google.com/store/apps/details?id=com.leco.myleco \nIOS: https://apps.apple.com/lk/app/my-leco-app/id6452432831?platform=iphone\nFor any inquiries, contact us via the hotline 1910.",
+    "_id": 3025
+  },
+  {
+    "threadid": 298,
+    "type": "inbox",
+    "read": false,
+    "number": "SpaCeylon",
+    "received": "2024-11-16 11:01:51",
+    "body": "Exclusive Loyalty GIFT! Claim it at our Online Festive Gallery on 16th Nov, 11AM-12PM. Visit https://bit.ly/48QX4hi T&C apply\n*SMS STOP SpaCeylon to 94784000087",
+    "_id": 3026
+  },
+  {
+    "threadid": 298,
+    "type": "inbox",
+    "read": false,
+    "number": "SpaCeylon",
+    "received": "2024-11-17 09:02:04",
+    "body": "Refresh your skin with 15% OFF Face Washes! Limited time offer. Shop: https://bit.ly/48UiWZh Code:NWO4 T&C apply. Online Only\n*SMS STOP SpaCeylon to 94784000087",
+    "_id": 3027
+  },
+  {
+    "threadid": 79,
+    "type": "inbox",
+    "read": true,
+    "number": "5555",
+    "received": "2024-11-17 13:04:34",
+    "body": "Rs.797/- Fun Blaster Plan successfully activated with Unlimited data (SD Quality) for YouTube, Facebook, WhatsApp, Instagram, 4GB Anytime data & 100 mins to Any net (Including local landlines). Valid for 30 Days. Visit https://dlg.lk/mdprp to check data balance.",
+    "_id": 3028
+  },
+  {
+    "threadid": 244,
+    "type": "inbox",
+    "read": false,
+    "number": "Mega Wasana",
+    "received": "2024-11-17 13:06:55",
+    "body": "Congratulations! You have earned 15 scratch cards on Dialog Mega Wasana by reloading Rs. 797.0 to your Dialog Mobile 768886584 on 17/11/2024. Scratch and stand a chance to win cash prizes of Rs. 500,000 and win monthly gifts worth 10M on WOW app! Visit the WOW app https://applink.wow.lk/MwDL Dialog does not levy any fees from customers for claiming Dialog Mega Wasana winning chances or prizes.",
+    "_id": 3029
+  },
+  {
+    "threadid": 194,
+    "type": "inbox",
+    "read": false,
+    "number": "Star Points",
+    "received": "2024-11-17 13:06:58",
+    "body": "Dear Customer, you have earned 7.97 Star Points for the Dialog Mobile reload of Rs. 797.00/- made on 17/11/2024 13:02:48. Total Star Points balance: 145.64 and you may visit the WOW App https://applink.wow.lk/SP or dial #141# to check on Star Points Offers.",
+    "_id": 3030
+  },
+  {
+    "threadid": 153,
+    "type": "inbox",
+    "read": false,
+    "number": "DialogTopup",
+    "received": "2024-11-17 13:09:31",
+    "body": "Congratulations! You have received 2GB Bonus DATA valid for 30 days for reloading the new 797 Fun Blaster package through the Digital Channel",
+    "_id": 3031
+  },
+  {
+    "threadid": 247,
+    "type": "inbox",
+    "read": false,
+    "number": "SLT_BB",
+    "received": "2024-11-17 22:25:02",
+    "body": "94112641047: has reached 100% of Peak Download volume. Enjoy LOWEST DATA rates with SLTMobitel Home Broadband. 1-4GB Rs.100/GB, above 5-19GB Rs.85/GB, above 20GB Rs.75/GB. https://myslt.slt.lk",
+    "_id": 3032
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-11-18 10:40:51",
+    "body": "Ultimate Burger Combo!\n\n4 crispy Burgers & 4 pc Crispy Drumsticks for Rs. 2990.\n\nValid on 18th & 19th Nov.\n\nCall 0115532532 or visit www.kfc.lk\n\nT&C Apply. \n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3033
+  },
+  {
+    "threadid": 344,
+    "type": "inbox",
+    "read": false,
+    "number": "Ibson Cafe",
+    "received": "2024-11-19 11:04:25",
+    "body": "Today Only! Show your receipt from Ibsons Choice Cafe 1 at Ibsons Choice Cafe 2 and get 10% OFF your order. Dont miss outdouble the fun, double the flavor!  Explore Ibsons Cafe 2's 3 amazing floors! MAP: https://maps.app.goo.gl/aeVq99aXV4MMXEyL8\n\nIbson Choice Cafe\n For Chat Reply to - 0705033033\n*StopAd? Reply STOP AD",
+    "_id": 3034
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:08:47",
+    "body": "Ane kavindu ",
+    "_id": 3035
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:08:48",
+    "body": "pls",
+    "_id": 3036
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:08:54",
+    "body": "hoda lamayane oya",
+    "_id": 3037
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:09:05",
+    "body": "mn godak adareine oyata",
+    "_id": 3038
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:09:17",
+    "body": "Ada presentation eka hodata krnn",
+    "_id": 3039
+  },
+  {
+    "threadid": 261,
+    "type": "sent",
+    "read": true,
+    "sender": "You",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:09:37",
+    "body": "Oyage adare mn dn hodatoma dakka ",
+    "_id": 3040
+  },
+  {
+    "threadid": 261,
+    "type": "sent",
+    "read": true,
+    "sender": "You",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:10:22",
+    "body": "Adare karana kenek mema deval allan randu wenne naa mn oyava exam wala balagaththu vidiyata mage presentation ekak mema aul karai kiyala hituwe naa",
+    "_id": 3041
+  },
+  {
+    "threadid": 261,
+    "type": "sent",
+    "read": true,
+    "sender": "You",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:10:48",
+    "body": "Mata gedara yanna kivva neda ",
+    "_id": 3042
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:10:49",
+    "body": "Hri mn aye oya lagatawath enne nathuwa innam..pls hodata krnn presentation eka",
+    "_id": 3043
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:11:04",
+    "body": "Ane wedla kiynnam",
+    "_id": 3044
+  },
+  {
+    "threadid": 261,
+    "type": "sent",
+    "read": true,
+    "sender": "You",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:11:05",
+    "body": "Oyata komath magen yannae onee hari yanna 💔",
+    "_id": 3045
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:11:08",
+    "body": "meka awul krgnn epa",
+    "_id": 3046
+  },
+  {
+    "threadid": 261,
+    "type": "sent",
+    "read": true,
+    "sender": "You",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:11:19",
+    "body": "Man me break up ekath ekkama meka karannm",
+    "_id": 3047
+  },
+  {
+    "threadid": 261,
+    "type": "sent",
+    "read": true,
+    "sender": "You",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:11:27",
+    "body": "Mage oluwa palenna ridenavaa",
+    "_id": 3048
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:11:49",
+    "body": "Hari hari oya gedr ynna oni na",
+    "_id": 3049
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:12:07",
+    "body": "Ane wedla kiynnam",
+    "_id": 3050
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:12:18",
+    "body": "Hri mn aye oya lagatawath enne nathuwa innam..pls hodata krnn presentation eka",
+    "_id": 3051
+  },
+  {
+    "threadid": 261,
+    "type": "sent",
+    "read": true,
+    "sender": "You",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:12:49",
+    "body": "Shik mage oluwa ridenava hodatoma 💔",
+    "_id": 3052
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:13:09",
+    "body": "Ane na anee",
+    "_id": 3053
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:13:16",
+    "body": "mn oyawa dala ynne na ",
+    "_id": 3054
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:13:39",
+    "body": "promise ",
+    "_id": 3055
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:15:32",
+    "body": "Ane mn wedala illnnam",
+    "_id": 3056
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:15:37",
+    "body": "oluwa awul krgnn epa",
+    "_id": 3057
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:15:39",
+    "body": "pls",
+    "_id": 3058
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:22:41",
+    "body": "Kavindu ",
+    "_id": 3059
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 13:22:44",
+    "body": "Manika",
+    "_id": 3060
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 14:06:21",
+    "body": "Oya presentation ekeda",
+    "_id": 3061
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 14:06:23",
+    "body": "ane hodata krnna",
+    "_id": 3062
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 14:06:28",
+    "body": "budusaranai hodada",
+    "_id": 3063
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 14:06:34",
+    "body": "pls hodata krnna",
+    "_id": 3064
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 14:06:47",
+    "body": "wechchi hamadema amathaka krnnko",
+    "_id": 3065
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 14:22:09",
+    "body": "Gedara yanna epa",
+    "_id": 3066
+  },
+  {
+    "threadid": 261,
+    "type": "inbox",
+    "read": true,
+    "sender": "Vihanga",
+    "number": "+94704840800",
+    "received": "2024-11-19 14:22:12",
+    "body": "please enna",
+    "_id": 3067
+  },
+  {
+    "threadid": 292,
+    "type": "inbox",
+    "read": false,
+    "number": "Genie Loan",
+    "received": "2024-11-19 15:12:12",
+    "body": "ලෙඩ නැති vivo Y03, Y27s, or Y19s ලේසියෙන්ම ගන්න දැන් Credit card ඕනෙ නෑ.!! ලේසි Pay හරහා  මාසිකව ටික ටික ගෙවන්න ගන්න අදම genie app එක Download කරගෙන loan එකකට apply කරන්න. Loan එක අනුමත වූ පසු ළගම  ඇති Dialog පරිභොගික සේවා  මධ්‍යස්ථානයෙන් අරගන්න. https://dlg.lk/genie වෙත පිවිස genie  download කරන්න. T&C Apply. *Stop Ad? SMS PROMO OFF to 678",
+    "_id": 3068
+  },
+  {
+    "threadid": 195,
+    "type": "inbox",
+    "read": false,
+    "number": "Alert",
+    "received": "2024-11-19 20:46:37",
+    "body": "Missed calls details : 1 from 771143458 on 19/11 20:33, 2 from 761831449 on 19/11 20:28.",
+    "_id": 3069
+  },
+  {
+    "threadid": 247,
+    "type": "inbox",
+    "read": false,
+    "number": "SLT_BB",
+    "received": "2024-11-19 22:52:18",
+    "body": "94112641047: Extra 1GB has been added to your account. Thank you for being with SLTMobitel Home Broadband.",
+    "_id": 3070
+  },
+  {
+    "threadid": 196,
+    "type": "inbox",
+    "read": false,
+    "number": "COMBANK",
+    "received": "2024-11-20 19:41:29",
+    "body": "Code 681112 is your One Time Password to authorize the transaction. Do NOT share this number with anyone PbgqGoDg8jk",
+    "_id": 3071
+  },
+  {
+    "threadid": 263,
+    "type": "inbox",
+    "read": false,
+    "number": "LECO BILL",
+    "received": "2024-11-20 21:51:52",
+    "body": "October 2024\n>A/N:  0300683108 (D1)\n>WEJESIRI N*\n>Read On: 20-NOV-24\n>Meter Reading: 4087-3940=147 Units\n>Monthly Bill: Rs. 5,101.54\n>Other Charges: Rs. 0.00\n>SSCL: Rs. 127.54\n>Opening Balance: Rs. -0.65 on 13-NOV-24\n>Total Payable: Rs. 5,100.89\n>Due Date: 04-DEC-24\n>Last Payment: Rs. 4,443.00 on 02-NOV-24\n>Detail Bill: https://ebill.leco.lk/0300683108/202410\n>Pay: https://lecoapp.leco.lk/BillPay/?an=0300683108\n>Please note detail bill will be ready withing 24 hours\n",
+    "_id": 3072
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-11-21 10:19:08",
+    "body": "KFC Variety Combo.2 Pilaf Rice,2 Drumsticks, 3 Crispy Fillet & 6 Drumlets for Rs. 2990.On 21st & 22nd Nov. Call0115532532 or www.kfc.lk\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3073
+  },
+  {
+    "threadid": 294,
+    "type": "inbox",
+    "read": false,
+    "number": "JAPURA HOSP",
+    "received": "2024-11-22 11:16:59",
+    "body": "Dear Mr. N H K LAKSHAN Your App. at SJGH is due On Fri 20/12/2024 You can pay at https://payments.sjgh.health.gov.lk Reg No is 2412806",
+    "_id": 3074
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-11-23 10:16:11",
+    "body": "Saturday Rice Combo. 4 Pilaf Rice, 8 Nuggets & 4 Crispy Chicken for Rs.3300.On 23rd Nov. Call 0115532532 or www.kfc.lk\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3075
+  },
+  {
+    "threadid": 247,
+    "type": "inbox",
+    "read": false,
+    "number": "SLT_BB",
+    "received": "2024-11-24 10:41:33",
+    "body": "94112641047: Extra 1GB has been added to your account. Thank you for being with SLTMobitel Home Broadband.",
+    "_id": 3076
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-11-25 10:33:41",
+    "body": "KFC Buy1 Get1 FREE. 8pc H&C Chicken Bucket for Rs.4270.(16pc of Crispy Chicken).Only on 25th Nov. Call 0115 532532 or visit  www.kfc.lk.Conditions apply.\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3077
+  },
+  {
+    "threadid": 344,
+    "type": "inbox",
+    "read": false,
+    "number": "Ibson Cafe",
+    "received": "2024-11-25 11:08:29",
+    "body": "*How did we do?*\r\nIBSONS CAFE: We want to hear from you! Your feedback matters to us. \r\nPlease help take a quick survey to let us know how we can do better.\r\nLeave feedback: https://webappcopilot.ai/reviews-frame/66017879301fb4f61b0d6487\n\nIbson Choice Cafe\n For Chat Reply to - 0705033033\n*StopAd? Reply STOP AD",
+    "_id": 3078
+  },
+  {
+    "threadid": 298,
+    "type": "inbox",
+    "read": false,
+    "number": "SpaCeylon",
+    "received": "2024-11-25 18:27:21",
+    "body": "HURRY! Black Friday offers up to 40% off are selling FAST! Don't miss out. Shop now: https://bit.ly/3Zkj68Z  T&Cs apply.\n*SMS STOP SpaCeylon to 94784000087",
+    "_id": 3079
+  },
+  {
+    "threadid": 79,
+    "type": "inbox",
+    "read": true,
+    "number": "5555",
+    "received": "2024-11-26 08:12:05",
+    "body": "Your Mobile Broadband package has 100MB remaining from allocated Anytime data quota. Visit https://md.dialog.lk/P5vG to check your data balance or to activate a",
+    "_id": 3080
+  },
+  {
+    "threadid": 79,
+    "type": "inbox",
+    "read": true,
+    "number": "5555",
+    "received": "2024-11-26 08:12:06",
+    "body": " Data Add-on Pack. If no other data quota is available, Standard Data charges will be applied.",
+    "_id": 3081
+  },
+  {
+    "threadid": 79,
+    "type": "inbox",
+    "read": false,
+    "number": "5555",
+    "received": "2024-11-26 08:31:38",
+    "body": "You have now exceeded your allocated Anytime data quota. Visit https://md.dialog.lk/P5vG to check your data balance or to buy Data. If no other data quota is",
+    "_id": 3082
+  },
+  {
+    "threadid": 79,
+    "type": "inbox",
+    "read": false,
+    "number": "5555",
+    "received": "2024-11-26 08:31:39",
+    "body": " available, Standard Data charges will be applied.",
+    "_id": 3083
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-11-26 10:32:34",
+    "body": "Ultimate Burger Combo. 4 crispy Burgers & 4 pc Crispy Drumsticks for Rs. 2990.On 26th Nov. Call0115532532 or www.kfc.lk\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3084
+  },
+  {
+    "threadid": 195,
+    "type": "inbox",
+    "read": false,
+    "number": "Alert",
+    "received": "2024-11-26 15:57:25",
+    "body": "1 Missed call(s) from 704840800 on 26-Nov-24 03:15 PM.",
+    "_id": 3085
+  },
+  {
+    "threadid": 306,
+    "type": "inbox",
+    "read": false,
+    "number": "LECO",
+    "received": "2024-11-26 20:40:06",
+    "body": "0300683108 Electricity supply interrupted due to a failure on 2024-11-26 20:13:00. Restoration work is in progress. We apologize for any inconvenience caused.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ",
+    "_id": 3086
+  },
+  {
+    "threadid": 306,
+    "type": "inbox",
+    "read": false,
+    "number": "LECO",
+    "received": "2024-11-26 21:33:20",
+    "body": "0300683108 Supply restored on 2024-11-26 20:36:00, we apologize for the inconvenience and thank you for your patience                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ",
+    "_id": 3087
+  },
+  {
+    "threadid": 247,
+    "type": "inbox",
+    "read": false,
+    "number": "SLT_BB",
+    "received": "2024-11-26 22:32:42",
+    "body": "94112641047: Extra 1GB has been added to your account. Thank you for being with SLTMobitel Home Broadband.",
+    "_id": 3088
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-11-27 10:36:35",
+    "body": "KFC Wednesday! 9pc Hot & Crispy Chicken Bucket for Rs.3250.Save Rs. 1660. On 27th Nov.Call 115532532 or visit www.kfc.lk.T&C\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3089
+  },
+  {
+    "threadid": 298,
+    "type": "inbox",
+    "read": false,
+    "number": "SpaCeylon",
+    "received": "2024-11-27 18:02:29",
+    "body": "Get 40% off Hair Care & more ONLY at the Black Friday Sale! Valid in-store & online. Shop: https://bit.ly/3ZrvFza T&C apply.\n*SMS STOP SpaCeylon to 94784000087",
+    "_id": 3090
+  },
+  {
+    "threadid": 345,
+    "type": "inbox",
+    "read": false,
+    "number": "UberLK",
+    "received": "2024-11-28 08:56:46",
+    "body": "From Vihanga: I sent you a gift from Waffle Master with Uber Eats!\n\nFollow your gift: https://www.ubereats.com/giftcard/redeem?eatsOrderUuid=522000c1-802e-4ab1-9583-53e762736deb&nocache=true. Privacy notice: https://t.uber.com/LGwS5f",
+    "_id": 3091
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-11-28 10:20:52",
+    "body": "KFC Variety Combo.2 Pilaf Rice,2 Drumsticks, 3 Crispy Fillet & 6 Drumlets for Rs. 2990.On 28th & 29th Nov. Call0115532532 or www.kfc.lk\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3092
+  },
+  {
+    "threadid": 196,
+    "type": "inbox",
+    "read": false,
+    "number": "COMBANK",
+    "received": "2024-11-29 08:12:49",
+    "body": "We wish to confirm a CRM Deposit at 08:08 for Rs. 2,000.00 through RATMALAN-CRM1 BR to your account 8*****9507 https://vas.combank.net/rec/QPs6KzQHPQPLdbdH",
+    "_id": 3093
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-11-29 10:23:42",
+    "body": "Introducing KFC CHRISTMAS COMBOS. Chicken Combo - 6 Crispy Chicken,6 Drumlets,8 Nuggets for Rs.3990.Call 0115532532 or visit www.kfc.lk\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3094
+  },
+  {
+    "threadid": 298,
+    "type": "inbox",
+    "read": false,
+    "number": "SpaCeylon",
+    "received": "2024-11-29 13:02:38",
+    "body": "Get an EXTRA 10% cashback on top of our Black Friday offers with MintPay! Shop now: https://bit.ly/4i7ApS5 T&Cs apply.\n*SMS STOP SpaCeylon to 94784000087",
+    "_id": 3095
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-11-30 10:12:34",
+    "body": "Introducing KFC CHRISTMAS COMBOS. Rice Combo - 4 Crispy Chicken,4 Drumlets,4 Pilaf Rice& 8 Nuggets for Rs.3990.Call 0115532532 or visit www.kfc.lk\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3096
+  },
+  {
+    "threadid": 298,
+    "type": "inbox",
+    "read": false,
+    "number": "SpaCeylon",
+    "received": "2024-12-01 10:06:00",
+    "body": "Black Friday ends TOMORROW. It's your last chance to enjoy up to 40% off. Shop now: https://bit.ly/3CMq267 T&C apply.\n*SMS STOP SpaCeylon to 94784000087",
+    "_id": 3097
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-12-01 10:27:59",
+    "body": "KFC Sunday Special. 12pc Hot & Crispy Chicken Bucket for Rs.3700.Save Rs.2520. On 1st Dec.Call 115532532 or visit www.kfc.lk.T&C\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3098
+  },
+  {
+    "threadid": 263,
+    "type": "inbox",
+    "read": false,
+    "number": "LECO BILL",
+    "received": "2024-12-02 07:52:38",
+    "body": ">A/C: 0300683108\n>Dear Customer,\n>Payment Reminder\n>Please pay this outstanding amount of Rs. 5,100.89 on your electricity account for the month of October 2024,before 04-DEC-24 to avoid late payment charges.\n>Pay : https://lecoapp.leco.lk/BillPay/?an=0300683108\n>If settled already, please ignore this message.\n",
+    "_id": 3099
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-12-02 11:04:01",
+    "body": "Ultimate Burger Combo. 4 crispy Burgers & 4 pc Crispy Drumsticks for Rs. 2990.On 2nd & 3rd Dec.Call0115532532 or www.kfc.lk\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3100
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-12-03 12:10:31",
+    "body": "Introducing KFC CHRISTMAS COMBOS.Burger Combo - 4 Zinger Burgers & 6  Nuggets for Rs.3990.Call 0115532532 or visit www.kfc.lk\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3101
+  },
+  {
+    "threadid": 344,
+    "type": "inbox",
+    "read": false,
+    "number": "Ibson Cafe",
+    "received": "2024-12-04 00:10:20",
+    "body": "Dinner Special at Ibsons Choice Cafe 2! \r\nTonight only, enjoy 10% OFF on all our mouthwatering pasta dishes!\r\nIndulge in favorites like Basil Pesto Pasta, Kochchi Bolognese Spaghetti, and Creamy Chicken Carbonaraperfect for a cozy dinner.\r\n\r\nOffer valid for dinner until closing time tonight!\r\nDont miss this delicious dealsee you for dinner!\n\nIbson Choice Cafe\n For Chat Reply to - 0705033033\n*StopAd? Reply STOP AD",
+    "_id": 3102
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-12-04 10:33:59",
+    "body": "KFC Wednesday! 9pc Hot & Crispy Chicken Bucket for Rs.3250.Save Rs. 1660. On 4th Dec.Call 115532532 or visit www.kfc.lk.T&C\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3103
+  },
+  {
+    "threadid": 195,
+    "type": "inbox",
+    "read": false,
+    "number": "Alert",
+    "received": "2024-12-04 13:34:37",
+    "body": "1 Missed call(s) from 704840800 on 04-Dec-24 12:24 PM.",
+    "_id": 3104
+  },
+  {
+    "threadid": 344,
+    "type": "inbox",
+    "read": false,
+    "number": "Ibson Cafe",
+    "received": "2024-12-04 18:52:45",
+    "body": "PASTA-palooza Tonight at Ibsons Choice Cafe 2! \r\nSkip cooking and treat yourself to the best dinner in town! From the spicy Kochchi Bolognese Spaghetti to the dreamy Cheezy Pasta, weve got your evening covered. \r\n\r\n Doors are open until closing, and the pasta is calling your name!\r\n Ibsons Choice Cafe 2\n\nIbson Choice Cafe\nReply/Stop Ad - 0705033033",
+    "_id": 3105
+  },
+  {
+    "threadid": 344,
+    "type": "inbox",
+    "read": false,
+    "number": "Ibson Cafe",
+    "received": "2024-12-05 07:40:19",
+    "body": "Rise and Shine! Breakfast is Ready at Ibsons Choice Cafe! \r\nKickstart your day with a hearty breakfast at our cafes! We open at 7 AM to serve you the best morning treats\nhttps://d1mmcu5palzvrl.cloudfront.net/11733364309.jpg\n\nIbson Choice Cafe\nReply/Stop Ad - 0705033033",
+    "_id": 3106
+  },
+  {
+    "threadid": 267,
+    "type": "inbox",
+    "read": false,
+    "number": "LECO DISC",
+    "received": "2024-12-05 08:02:25",
+    "body": "Notice of Disconnection\n>Notice ID: 03202412050102385\n>A/N: 0300683108 (D1)\n>WEJESIRI N*\n>Notice Date: 05-DEC-24\n>Notice Amount: Rs. 5,100.89\n>Due Date: on or before  15-DEC-24\n>This is to inform you that failure to settle Notice amount within 10 days from the notice date will result in disconnection of your electricity supply without any futher notice.(if already paid, Pls ignore this MSG)\n",
+    "_id": 3107
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-12-05 10:28:50",
+    "body": "KFC Variety Combo.2 Pilaf Rice,2 Drumsticks, 3 Crispy Fillet & 6 Drumlets for Rs. 2990.On 5th & 6th Dec. Call0115532532 or www.kfc.lk\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3108
+  },
+  {
+    "threadid": 196,
+    "type": "inbox",
+    "read": false,
+    "number": "COMBANK",
+    "received": "2024-12-05 16:10:55",
+    "body": "Code 417310 is your One Time Password to authorize the transaction. Do NOT share this number with anyone PbgqGoDg8jk",
+    "_id": 3109
+  },
+  {
+    "threadid": 263,
+    "type": "inbox",
+    "read": false,
+    "number": "LECO BILL",
+    "received": "2024-12-05 17:09:32",
+    "body": "Dear WEJESIRI N*\n>A payment of Rs. 5,101.00 on A/C: 0300683108 is received by 05-DEC-24 16:55:30. LECO Billing system will be updated shortly.\n",
+    "_id": 3110
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-12-06 10:49:10",
+    "body": "KFC Friday Special. 20pc Hot Drumlets with 2 Pilaf Rice for Rs. 2990. On 6th Dec. Call0115532532 or www.kfc.lk\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3111
+  },
+  {
+    "threadid": 345,
+    "type": "inbox",
+    "read": false,
+    "number": "UberLK",
+    "received": "2024-12-06 15:39:47",
+    "body": "From Vihanga: I sent you a gift from Caravan Fresh - Moratuwa with Uber Eats!\n\nFollow your gift: https://www.ubereats.com/giftcard/redeem?eatsOrderUuid=4ab4ffdf-8b1f-4a9f-8b66-9185253f6b6d&nocache=true. Privacy notice: https://t.uber.com/LGwS5f",
+    "_id": 3112
+  },
+  {
+    "threadid": 343,
+    "type": "inbox",
+    "read": false,
+    "number": "KFC",
+    "received": "2024-12-07 10:44:45",
+    "body": "KFC CHRISTMAS RICE COMBO - 4 Crispy Chicken,4 Drumlets,4 Pilaf Rice& 8 Nuggets for Rs.3990.Call 0115532532 or visit www.kfc.lk\n\n*StopAd? SMS BL KFC to 9010*",
+    "_id": 3113
+  }
+]
