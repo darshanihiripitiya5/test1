@@ -1,1 +1,1 @@
-termux-call-log -l 20
+termux-microphone-record -l 10
