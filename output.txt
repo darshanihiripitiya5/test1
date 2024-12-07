@@ -1,1 +1,150 @@
 
+[
+  {
+    "id": "0",
+    "facing": "back",
+    "jpeg_output_sizes": [
+      {
+        "width": 3840,
+        "height": 2160
+      },
+      {
+        "width": 3264,
+        "height": 2448
+      },
+      {
+        "width": 2048,
+        "height": 1536
+      },
+      {
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "width": 720,
+        "height": 480
+      },
+      {
+        "width": 640,
+        "height": 480
+      },
+      {
+        "width": 480,
+        "height": 320
+      },
+      {
+        "width": 352,
+        "height": 288
+      },
+      {
+        "width": 320,
+        "height": 240
+      },
+      {
+        "width": 176,
+        "height": 144
+      }
+    ],
+    "focal_lengths": [
+      4.400000095367432
+    ],
+    "auto_exposure_modes": [
+      "CONTROL_AE_MODE_OFF",
+      "CONTROL_AE_MODE_ON",
+      "CONTROL_AE_MODE_ON_AUTO_FLASH",
+      "CONTROL_AE_MODE_ON_ALWAYS_FLASH",
+      "CONTROL_AE_MODE_ON_AUTO_FLASH_REDEYE"
+    ],
+    "physical_size": {
+      "width": 6.734399795532227,
+      "height": 4.919039726257324
+    },
+    "capabilities": [
+      "backward_compatible",
+      "manual_sensor",
+      "manual_post_processing",
+      "read_sensor_settings",
+      "burst_capture",
+      "motion_tracking"
+    ]
+  },
+  {
+    "id": "1",
+    "facing": "front",
+    "jpeg_output_sizes": [
+      {
+        "width": 4160,
+        "height": 3120
+      },
+      {
+        "width": 4192,
+        "height": 2358
+      },
+      {
+        "width": 3840,
+        "height": 2160
+      },
+      {
+        "width": 3264,
+        "height": 2448
+      },
+      {
+        "width": 3120,
+        "height": 3120
+      },
+      {
+        "width": 2048,
+        "height": 1536
+      },
+      {
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "width": 720,
+        "height": 480
+      },
+      {
+        "width": 640,
+        "height": 480
+      },
+      {
+        "width": 480,
+        "height": 320
+      },
+      {
+        "width": 352,
+        "height": 288
+      },
+      {
+        "width": 320,
+        "height": 240
+      },
+      {
+        "width": 176,
+        "height": 144
+      }
+    ],
+    "focal_lengths": [
+      3.0999999046325684
+    ],
+    "auto_exposure_modes": [
+      "CONTROL_AE_MODE_ON"
+    ],
+    "physical_size": {
+      "width": 4.730880260467529,
+      "height": 3.575040102005005
+    },
+    "capabilities": [
+      "backward_compatible"
+    ]
+  }
+]
