@@ -1,1 +1,8 @@
 
+dcim
+downloads
+external-1
+movies
+music
+pictures
+shared
