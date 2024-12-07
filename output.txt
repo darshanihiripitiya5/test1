@@ -2,3 +2,10 @@
 a.png
 storage
 test1
+dcim
+downloads
+external-1
+movies
+music
+pictures
+shared
