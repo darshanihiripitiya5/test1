@@ -1,2 +1,2 @@
-cd ~/storage/dcim/camera
+cd ~
 ls
