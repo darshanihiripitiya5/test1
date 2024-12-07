@@ -1,3 +1,3 @@
-termux-torch on
+
 
 
