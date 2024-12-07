@@ -1,1 +1,1 @@
-termux-torch off
+termux-contact-list
