@@ -1,1 +1,1 @@
-
+termux-battery-status
