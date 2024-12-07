@@ -1,3 +1,4 @@
-termux-camera-photo -c  1 z.png
+termux-torch off
+termux-torch on
 
 
