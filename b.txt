@@ -1,4 +1,4 @@
-Updating 65a2e2e..2d276d4
+Updating 26ec050..44d87ba
 Fast-forward
- input.sh | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
+ output.txt | 10055 -----------------------------------------------------------
+ 1 file changed, 10055 deletions(-)
