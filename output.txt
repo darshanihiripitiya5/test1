@@ -1,12 +1,1 @@
 
-a.mp4
-a.png
-a.txt
-b.png
-b.txt
-e.mp3
-input.sh
-output.txt
-a.png
-storage
-test1
