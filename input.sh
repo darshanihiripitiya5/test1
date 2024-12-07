@@ -1,1 +1,1 @@
-termux-camera-photo -c  1 a.png
+termux-camera-photo -c  1 d.jpeg
