@@ -1,5 +1,4 @@
-Updating 82fb1b6..398f4fa
+Updating ebd2735..ce80c8e
 Fast-forward
- b.png | Bin 1277180 -> 0 bytes
- 1 file changed, 0 insertions(+), 0 deletions(-)
- delete mode 100644 b.png
+ input.sh | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
